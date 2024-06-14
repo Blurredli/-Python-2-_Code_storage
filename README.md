@@ -3,7 +3,8 @@
 ### MOLI
 
 目前仅用于存放练习源代码
-<img src = ".\files\img\我什么的不知道_cat.jpg">
+
+<img src = ".\files\img\我什么的不知道_cat.jpg" width = 250>
 
 ## 期末了,
 道还要学这个破Python吗?!
